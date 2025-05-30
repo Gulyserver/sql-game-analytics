@@ -55,7 +55,7 @@
 
 ##  Визуализации и презентация
 
--  [Презентация проекта (PDF)](presentation/Zombie revolution.pdf)
+-  [Презентация проекта (PDF)](presentation/Zombierevolution.pdf)
 -  [Схема проекта в Miro](https://miro.com/app/board/uXjVINthjXI=/?share_link_id=418067126671)
 -  ![Miro-структура](screenshots/miro_structure.png)
 
