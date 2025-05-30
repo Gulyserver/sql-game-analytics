@@ -70,7 +70,4 @@
 
 ---
 
-##  Используемый стек
-
-PostgreSQL · VS Code · Excel · PowerPoint · Miro · GitHub
 
