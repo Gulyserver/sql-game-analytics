@@ -55,7 +55,7 @@
 
 ##  Визуализации и презентация
 
--  [Презентация проекта (PDF)](presentation/Zombierevolution.pdf)
+-  [Презентация проекта (PDF)]([presentation/Zombierevolution.pdf](https://github.com/Gulyserver/sql-game-analytics/blob/442d0ef8ee1b90ca056c52d4c2c70140dd7bd00f/presentation/Zombie%20revolution.pdf)
 -  [Схема проекта в Miro](https://miro.com/app/board/uXjVINthjXI=/?share_link_id=418067126671)
 -  ![Miro-структура](screenshots/miro_structure.png)
 
